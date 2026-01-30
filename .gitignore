@@ -1,0 +1,7 @@
+# Java / Maven
+backend/target/
+*.log
+
+# OS
+.DS_Store
+
